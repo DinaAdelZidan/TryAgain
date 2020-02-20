@@ -1,2 +1,6 @@
 int i =0 ;
 i ++;
+func mul(int x , int y )
+{
+return x*y;
+}
