@@ -5,8 +5,11 @@ func add(int i , int j)
 {
 return i+j;
 }
-
 func mul(int x , int y )
 {
 return x*y;
+}
+func sub(int a , int b)
+{
+return a-b;
 }
