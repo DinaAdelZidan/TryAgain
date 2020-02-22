@@ -1,7 +1,13 @@
 int i =0 ;
 i ++;
 
+<<<<<<< HEAD
 func add(int i , int j)
 {
 return i+j;
+=======
+func sub(int a , int b)
+{
+return a-b;
+>>>>>>> --sub
 }
