@@ -26,3 +26,9 @@ func mod(int x1,int x2)
 {
 return x1%x2;
 }
+
+func add5(int f)
+{
+f = f+5;
+return f ;
+}
