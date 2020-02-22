@@ -1,6 +1,12 @@
 int i =0 ;
 i ++;
+<<<<<<< HEAD
 func add (int i , int j)
 {
 return i+j;
+=======
+func mul(int x , int y )
+{
+return x*y;
+>>>>>>> origin/master
 }
