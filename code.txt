@@ -23,5 +23,10 @@ return h/d;
 func try2(string s)
 {
 s = "try2";
+}
+
+func try1(string s)
+{
+s = "try1";
 return s;
 }
