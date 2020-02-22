@@ -4,7 +4,6 @@ func mul(int x , int y )
 {
 return x*y;
 }
-
 func sub(int a , int b)
 {
 return a-b;
@@ -13,7 +12,6 @@ func add (int i , int j)
 {
 return i+j;
 }
-
 func try2(string s)
 {
 s = "try2";
