@@ -19,3 +19,7 @@ func try2(string s)
 s = "try2";
 return s;
 }
+func divid(int h , int d)
+{
+return h/d;
+}
