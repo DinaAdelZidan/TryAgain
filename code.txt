@@ -14,3 +14,8 @@ func add (int i , int j)
 return i+j;
 }
 
+func try2(string s)
+{
+s = "try2";
+return s;
+}
