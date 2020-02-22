@@ -22,7 +22,8 @@ func divid(int h , int d)
 return h/d;
 }
 
-func mod(int x1,int x2)
+func try1(string s)
 {
-return x1%x2;
+s = "try1";
+return s;
 }
