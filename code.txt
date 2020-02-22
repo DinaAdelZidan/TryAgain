@@ -26,16 +26,12 @@ func mod(int x1,int x2)
 {
 return x1%x2;
 }
-
-<<<<<<< HEAD
 func try1(string s)
 {
 s = "try1";
 return s;
-=======
 func add5(int f)
 {
 f = f+5;
 return f ;
->>>>>>> --try2-add5
 }
