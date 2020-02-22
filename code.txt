@@ -13,3 +13,9 @@ func sub(int a , int b)
 {
 return a-b;
 }
+
+
+func divid(int h , int d)
+{
+return h/d;
+}
